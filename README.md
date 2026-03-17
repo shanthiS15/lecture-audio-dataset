@@ -11,7 +11,7 @@ This dataset contains audio files used for lecture analysis.
 ## Dataset Download
 
 Google Drive Link:
-https://drive.google.com/drive/folders/1Ot-C40eUvLzUOVdaRKRh3_XJo716qUe_?usp=drive_link
+https://drive.google.com/drive/folders/1TeKd85N0EE9irzQjohhuSpEPElupmwxQ?usp=drive_link
 
 ## Total Files
 • Lecture Audio Files
